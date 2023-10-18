@@ -1,0 +1,14 @@
+{
+  "name": "exercise-typescript-array-functions",
+  "version": "1.0.0",
+  "description": "Exercise to work with array functions using TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc ./index.ts"
+  },
+  "author": "Lisandro Fernandez",
+  "license": "UTN",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
